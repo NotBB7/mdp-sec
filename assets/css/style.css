@@ -1,12 +1,23 @@
-.text-danger {
-    color: red;
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding-top: 50px;
+  }
+  
+  #passwordStrength {
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .text-danger {
+    color: #dc3545;
   }
   
   .text-warning {
-    color: orange;
+    color: #ffc107;
   }
   
   .text-success {
-    color: green;
+    color: #28a745;
   }
   
